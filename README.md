@@ -46,7 +46,7 @@ It provides an interactive UI for real-time time tracking.
 
 ### Buttons
 
-* **Start/Stop Button**
+*  **Start/Stop Button**
 
   * Starts or pauses the stopwatch
 
